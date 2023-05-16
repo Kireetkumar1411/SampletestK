@@ -1,2 +1,2 @@
 # SampletestK
-This is a demo repo
+echo "This is a demo repo"
